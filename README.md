@@ -39,7 +39,7 @@ Perform 1 thru 10 above PLUS:
 
 Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
 - Track timeline of events
-  - Intl Incident Events
+  - Intl Incident events
     - Cyber timeline
       - Cyber-related news reporting
     - Non-Cyber Event timeline (if necessary) 
