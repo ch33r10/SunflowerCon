@@ -25,7 +25,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 7. Practice finding specific procedures/TTPs that can be used by HUNT/SOC/PURPLE/RED
 8. Practice pivoting on the IOCs
 9. Use the intl incidents to learn what the more reputable sources are
-10. Practice your collection strategy and methodology
+10. Practice your collection strategy and methodology (Keep in mind the [Intelligence Lifecycle](https://irp.fas.org/cia/product/facttell/intcycle.htm))
 
 
 ###### `TIP`: WATCH EVERYTHING THE SENIOR PERSON DOES DURING THE INCIDENT & TAKE NOTES
