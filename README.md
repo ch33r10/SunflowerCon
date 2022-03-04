@@ -13,9 +13,9 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 #### `STEP TWO`: PICK YOUR PATH
 - Involed in Incident at Org - NO
-- Involed in Incident - YES
+- Involed in Incident at Org - YES
 
-## Involed in Incident - NO
+## Involed in Incident at Org - NO
 1. Create or find a high fidelity Twitter List [@ddale8 Ukraine List](https://twitter.com/i/lists/1494327296383021062), [@ch33r10 UA List](https://twitter.com/i/lists/1482117927356801024)
 2. Look out for any dumps related to the incident, Attempt to get them (safely) & search for mention of org/industry vertical/critical third parties
 3. Keep up with new developments or changes to the situation (Ex: Log4j multiple CVEs, UA cyber threats)
@@ -30,7 +30,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ###### `TIP`: WATCH EVERYTHING THE SENIOR PERSON DOES DURING THE INCIDENT & TAKE NOTES
 
-## Involed in Incident - YES
+## Involed in Incident at Org - YES
 `IMPORTANT`: ASK **YOUR MANAGER** BEFORE YOU TRY THIS & GET THEIR APPROVAL
 
 Perform 1 thru 10 above PLUS:
