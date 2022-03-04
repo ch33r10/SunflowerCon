@@ -52,7 +52,7 @@ Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Uk
     - Focus on procedures that HUNT/SOC/Purple can use to build detections, perform adversary emulation exercises, or hunt in the environment
   - Document attack paths
   - Track how actors are compromising orgs, including tooling related to the vulnerability or incident
-  - Track vulnerabilities actors are using to compromise organizations
+  - Track vulnerabilities related to the intl incident
     - Review your organization's posture to the vulnerabilities
 - Collect any IOCs shared to run through your org's process (vet the IOCs)
 - Track any preparation/mitigation/remediation suggestions shared by reputable sources like SANS 
