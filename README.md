@@ -39,12 +39,11 @@ Perform 1 thru 10 above PLUS:
 
 Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
 - Track timeline of events
-  - Intl Incident events
-    - Cyber timeline
-      - Cyber-related news reporting
-    - Non-Cyber Event timeline (if necessary) 
-      - General awareness reporting - especially concerning new developments
-        - EX: RU invasion of UA
+  - Cyber timeline
+    - Cyber-related news reporting
+  - Non-Cyber Event timeline (if necessary) 
+    - General awareness reporting - especially concerning new developments
+      - EX: RU invasion of UA
   - Track actions the org has taken related to the Intl. Incident (SOC, HUNT, CTI, Detection Eningeering, RED, Purple, DFIR, etc)
 - Track threat reports released
 - Track new malware variants released 
