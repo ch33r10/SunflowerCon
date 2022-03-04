@@ -12,15 +12,15 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
   - If you want to get involved, share that with your manager!
 
 #### `STEP TWO`: PICK YOUR PATH
-- Involed in Incident at Org - NO
-- Involed in Incident at Org - YES
+- Involved in Incident at Org - NO
+- Involved in Incident at Org - YES
 
-## Involed in Incident at Org - NO
+## Involved in Incident at Org - NO
 1. Create or find a high fidelity Twitter List [@ddale8 Ukraine List](https://twitter.com/i/lists/1494327296383021062), [@ch33r10 UA List](https://twitter.com/i/lists/1482117927356801024)
 2. Look out for any dumps related to the incident, Attempt to get them (safely) & search for mention of org/industry vertical/critical third parties
 3. Keep up with new developments or changes to the situation (Ex: Log4j multiple CVEs, UA cyber threats)
 4. Look for mention of targeting or issues for industry vertical
-5. Look for mention of issues or compromise related to known third parties or orgs that it would be reasonable to have an association with
+5. Look for mention of issues or compromises related to known third parties or orgs that it would be reasonable to have an association with
 6. Look for technology or similar vulnerability in your org
 7. Practice finding specific procedures/TTPs that can be used by HUNT/SOC/PURPLE/RED
 8. Practice pivoting on the IOCs
@@ -30,7 +30,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ###### `TIP`: WATCH EVERYTHING THE SENIOR PERSON DOES DURING THE INCIDENT & TAKE NOTES
 
-## Involed in Incident at Org - YES
+## Involved in Incident at Org - YES
 `IMPORTANT`: ASK **YOUR MANAGER** BEFORE YOU TRY THIS & GET THEIR APPROVAL
 
 Perform 1 thru 10 above PLUS:
@@ -44,7 +44,7 @@ Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Uk
   - Non-Cyber Event timeline (if necessary) 
     - General awareness reporting - especially concerning new developments
       - EX: RU invasion of UA
-  - Track actions the org has taken related to the Intl. Incident (SOC, HUNT, CTI, Detection Eningeering, RED, Purple, DFIR, etc)
+  - Track actions the org has taken related to the Intl. Incident (SOC, HUNT, CTI, Detection Engineering, RED, Purple, DFIR, etc)
 - Track threat reports released
 - Track new malware variants released 
 - Track Actor(s)
