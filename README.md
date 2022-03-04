@@ -35,7 +35,9 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 Perform 1 thru 10 above PLUS:
 
-**Track the Intl. Incident in a centralized location where everyone on the security team can view it**   Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
+**Track the Intl. Incident in a centralized location where everyone on the security team can view it!**   
+
+Ex: Curated Intel [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
 - Track timeline of events
   - Intl Incident Events
     - Cyber timeline
