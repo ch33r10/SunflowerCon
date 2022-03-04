@@ -105,6 +105,8 @@ My Fav Info: [Ukrainian soldiers with cats](https://twitter.com/David_Leavitt/st
 - Set up RSS Feed for Collection Purposes - FREE option [Feedbro](https://nodetics.com/feedbro/)
 
 <br></br>
+![ig post](https://github.com/ch33r10/SunflowerCon/blob/main/heartukraine/standwithua.png)
+<br></br>
 <hr></hr>
 
 ###### FOR THE LAWYERS
