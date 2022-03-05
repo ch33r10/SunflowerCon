@@ -62,7 +62,8 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ###### `TIP`: GREAT PUBLIC COLLECTION EXAMPLE YOU CAN REPURPOSE FOR YOUR ORG BASED ON YOUR PIRS (Build a template before you need it) [Curated Intel Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
 
-- Perform 1-11 above that pertain to PIRs and your collection strategy (if you don't have a collection strategy or collection management...this could be something to add to the CTI team roadmap/program goals)
+- Perform 1-11 above that pertain to PIRs and your collection strategy 
+  - *Manager Tip: If you don't have a collection strategy or collection management...this could be something to add to the CTI team roadmap/program goals* 
 - Track timeline of events
   - Cyber timeline
     - Cyber-related news reporting
