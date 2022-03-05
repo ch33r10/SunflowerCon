@@ -3,6 +3,15 @@
  <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 </p>
 
+## TERMS OF USE
+By using this project for any purpose and in any shape or form, you grant your implicit agreement to all the following statements:
+- You **condemn Russia and its military aggression** against Ukraine
+- You recognize that Russia is an occupant that unlawfully invaded a sovereign state
+- You support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas
+- You reject false narratives perpetuated by Russian state propaganda
+
+To learn more about the war and how you can help, [click here](https://war.ukraine.ua/). **Glory to Ukraine! Glory to the heroes!**
+
 # 🌻SunflowerCon🌻
 ### International Cybersecurity Incidents for In-House CTI Analysts✌️🕊️ 
 Real talk about international cybersecurity incidents for in-house CTI Analysts. Involved in incident support? Yes, No, or Maybe. I’ll share some tips that you might find useful. 
@@ -190,6 +199,9 @@ My Fav Info Ops ;)
 
 <br></br>
 ![ig post](https://github.com/ch33r10/SunflowerCon/blob/main/heartukraine/standwithua.png)
+
+<img src="https://img.shields.io/badge/Слава%20Україні!-blue?style=plastic" height="20px"> <img src="https://img.shields.io/badge/Героям%20слава!-blue?style=plastic" height="20px"> <img src="https://img.shields.io/badge/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%20-%20%D0%9D%D0%B0%20%D1%85%D1%83%D0%B9!-yellow?style=plastic&labelColor=blue" height="20px"> <img src="https://img.shields.io/badge/Повернись%20до%20Росії-yellow?style=plastic" height="20px"> <img src="https://img.shields.io/badge/Слава%20Україні!-yellow?style=plastic" height="20px"> <img src="https://img.shields.io/badge/Героям%20слава!-yellow?style=plastic" height="20px">
+
 <br></br>
 <hr></hr>
 
