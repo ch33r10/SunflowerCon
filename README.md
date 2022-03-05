@@ -145,7 +145,7 @@ My Fav Info Ops ;) [Ukrainian soldiers with cats](https://twitter.com/David_Leav
   - TTP-centric CTI analyst focus on TTP-related PIRs, such as procedures for SOC/DFIR/HUNT/RED/Detection Engineering
   - Red-skilled CTI analyst can help with testing and developing custom signatures
   - Etc...
-    - Ex: CTI TEAM ON BEASTMODE - WannaCry: Reverse engineer-skilled member found the killswitch before it was shared publicly
+    - Ex: CTI TEAM ON BEASTMODE - WannaCry: Reverse engineer-skilled CTI Analyst found the killswitch before it was shared publicly
  
 #### `DISSEMINATION`
 
