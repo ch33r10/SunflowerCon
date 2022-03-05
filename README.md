@@ -52,7 +52,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
   - Ask frequency of the updates
     - Ex: Security Leadership needs to know the actor's capabilities, likelihood, vulnerabilities, potential impact, etc. 
     - Ex: DFIR/SOC needs to know the attack path/TTPs and its changes, etc.
-    - Ex: TDE needs detection-related technical context, etc. 
+    - Ex: Detection Engineering needs detection-related technical context, etc. 
     - Ex: RED needs consolidated red-related info, etc. (Ex: log4j pentester tools on GitHub & procedures to re-create attacks)
     - Ex: HUNT needs actor behavioral information/attack-related information or changes to TTPs, etc. 
     - Ex: CTI needs to curate vetted IOCs, pivot to find additional infrastructure, track associated actors/payloads, create/deploy yararules, extract/research TTPs, intent/opportunity/capability of actor, etc.
@@ -133,12 +133,15 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 | Mis-information | Dis-information | Mal-information |
 | --- | --- | --- | 
-| False information, No intention to harm, Ex: [Snake Island](https://twitter.com/YaBoiBru/status/1497598394893746182) | False information, Intention to harm, Ex: [RU Info Attacks](https://twitter.com/Ukraine/status/1497599276901441547?s=20&t=cdRszWPtXqi48OQ7JHYy3Q) | Genuine information, Intention to harm, (Includes leaks, harassment, hate speech), Ex: [@ContiLeaks](https://twitter.com/ContiLeaks) |
+| False information, No intention to harm, Ex: Ghost of Kyiv, [Snake Island](https://twitter.com/YaBoiBru/status/1497598394893746182) | False information, Intention to harm, Ex: [RU Info Attacks](https://twitter.com/Ukraine/status/1497599276901441547?s=20&t=cdRszWPtXqi48OQ7JHYy3Q) | Genuine information, Intention to harm, (Includes leaks, harassment, hate speech), Ex: [@ContiLeaks](https://twitter.com/ContiLeaks) |
 
 <sub>Citation for the adapted table below: Mary Blankenship (2020). How Misinformation Spreads Through Twitter. UNLV.</sub> [Link](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1006&context=brookings_capstone_studentpapers)
 
 
-My Fav Info Ops ;) [Ukrainian soldiers with cats](https://twitter.com/David_Leavitt/status/1497778728776060928?s=20&t=VVRPF43wAo1tqCLMVTl1mw)
+My Fav Info Ops ;) 
+- [Ukrainian soldiers with cats](https://twitter.com/David_Leavitt/status/1497778728776060928?s=20&t=VVRPF43wAo1tqCLMVTl1mw)
+- [Spicy UA Posters](https://twitter.com/Mo_Abbas_Tweets/status/1499809125991129088?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
+- [Tactical Pickles](https://twitter.com/TsybulskaLiubov/status/1500075457798189057?s=20&t=bIslbnve7lOLazTaJ6aB1Q)  
 
 #### `ANALYSIS`
 
