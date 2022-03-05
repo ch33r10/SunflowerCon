@@ -148,7 +148,7 @@ My Fav Info Ops ;)
 - [Epic Trolling](https://twitter.com/Ukraine/status/1498547251949588482?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
 - [Sunflower Seeds](https://youtu.be/PJJ8zmcBH2A)
 - [Ukrainian moves mine with cigarette](https://twitter.com/travisakers/status/1497943065629179904?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
-- [Zelensky Selfie Video](https://twitter.com/SaoSasha/status/1497311531041640450?s=20&t=bIslbnve7lOLazTaJ6aB1Q) - "We're all here" ~ Volodymyr Zelensky
+- [Zelensky Selfie Video](https://twitter.com/SaoSasha/status/1497311531041640450?s=20&t=bIslbnve7lOLazTaJ6aB1Q) - "We're all here" ~ Volodymyr Zelensky, President of Ukraine 
 
 #### `ANALYSIS`
 
