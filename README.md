@@ -8,7 +8,7 @@
 Real talk about international cybersecurity incidents for in-house CTI Analysts. Involved in incident support? Yes, No, or Maybe. I’ll share some tips that you might find useful. 
 #StandWithUkraine 
 
-- This talk is geared towards: newer-ish to cybersecurity, jr. CTI role, breaking into the industry, & ideas for CTI Managers.
+- This talk is geared towards: people newer-ish to cybersecurity, Jr. CTI Analysts, people breaking into the industry, & ideas for CTI Managers.
 
 ###### `TIP`: KEEP UP WITH INTL. INCIDENT CYBER-RELATED NEWS
 
