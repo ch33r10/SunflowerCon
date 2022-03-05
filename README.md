@@ -54,7 +54,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
     - Ex: TDE needs detection-related technical context, etc. 
     - Ex: RED needs consolidated red-related info, etc. (Ex: log4j pentester tools on GitHub & procedures to re-create attacks)
     - Ex: HUNT needs actor behavioral information/attack-related information or changes to TTPs, etc. 
-    - Ex: CTI needs to curate vetted IOCs, pivot to find additional infrastructure, track associated actors/payloads, deploy yararules, extract/research TTPs, intent/opportunity/capability of actor, etc.
+    - Ex: CTI needs to curate vetted IOCs, pivot to find additional infrastructure, track associated actors/payloads, create/deploy yararules, extract/research TTPs, intent/opportunity/capability of actor, etc.
 -  Obtaining the PIRs prioritizes and buckets collection efforts. 
 
 #### `COLLECTION`:
