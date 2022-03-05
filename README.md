@@ -112,7 +112,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
   - Information sources
     - Include a rating for the information source's credibility (`LOW`, `MEDIUM`, `HIGH`) 
     - Include the information source type (`PRIMARY`, `SECONDARY`, etc.) 
-      - Ex: Analysis of Competing Hypotheses for WannaCry [Link](https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/) by Rafael Amado at Digital Shadows   
+      - Ex: Analysis of Competing Hypotheses for WannaCry - [Link](https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/) by Rafael Amado at Digital Shadows   
 
 *VERIFICATION*
 
