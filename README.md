@@ -42,13 +42,14 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ### 🌞TRACK THE INTERNATIONAL INCIDENT IN A CENTRALIZED LOCATION FOR THE SECURITY TEAM WHERE EVERYONE CAN VIEW IT IN REAL-TIME!🌞
 
-###### `TIP`: USE THE INTELLIGENCE LIFECYCLE AS A REPEATABLE METHODOLOGY TO TRACK THE INTERNATIONAL INCIDENT - [Intelligence Lifecycle](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/)
+###### `TIP`: USE THE INTELLIGENCE LIFECYCLE AS A REPEATABLE METHODOLOGY TO TRACK THE INTERNATIONAL INCIDENT & PLAN CTI TEAM WORKLOADS - [Intelligence Lifecycle](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/)
 
 #### `PLANNING & DIRECTION`:
 
 - Manager: Talk with the other team leads at the org for their Priority Intelligence Requirements (PIRs) 
   - Ask what they need for deliverables, support, or other from CTI & their preferred format
   - Ask when & how they want updates 
+  - Ask frequency of the updates
     - Ex: Security Leadership needs to know the actor's capabilities, likelihood, vulnerabilities, potential impact, etc. 
     - Ex: DFIR/SOC needs to know the attack path/TTPs and its changes, etc.
     - Ex: TDE needs detection-related technical context, etc. 
