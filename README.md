@@ -12,22 +12,22 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ###### `TIP`: KEEP UP WITH INTL. INCIDENT CYBER-RELATED NEWS
 
-#### `STEP ONE`:
+### `STEP ONE`:
 - Check in with your manager regarding how you can support the incident
   - If you want to get involved, share that with your manager!
 
-#### `STEP TWO`: 
+### `STEP TWO`: 
 **PICK YOUR PATH**
 - Involved in Incident at Org - NO
 - Involved in Incident at Org - YES
 
 ## Involved in Incident at Org - NO
 1. Create or find a high fidelity Twitter List [@ddale8 Ukraine List](https://twitter.com/i/lists/1494327296383021062), [@ch33r10 UA List](https://twitter.com/i/lists/1482117927356801024)
-2. Look out for any dumps related to the incident, Attempt to get them (safely) & search for mention of org/industry vertical/critical third parties
+2. Look out for any dumps related to the incident, attempt to get them (safely) & search for mention of org/industry vertical/critical third parties
 3. Keep up with new developments/changes to the situation (Ex: Log4j multiple CVEs, UA cyber threats)
 4. Look for mention of targeting/issues for industry vertical
 5. Look for mention of issues/compromises related to known third parties or orgs that it would be reasonable to have an association with
-6. Look for technology or similar vulnerability in your org
+6. Look for technology or similar vulnerability in your org if mentioned/related to incident
 7. Practice finding specific procedures/TTPs that can be used by HUNT/SOC/PURPLE/RED
 8. Practice pivoting on the IOCs
 9. What are different GOV/GOV-related entities saying about it (Ex: CISA, FBI, CERTS, NCSC, etc.)
@@ -38,13 +38,13 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 ###### `TIP`: WATCH EVERYTHING THE SENIOR PERSON DOES DURING THE INCIDENT & TAKE NOTES
 
 ## Involved in Incident at Org - YES
-`IMPORTANT`: ASK **YOUR MANAGER** BEFORE YOU TRY THIS & GET THEIR APPROVAL. ENSURE RELEVANCY TO YOUR ORG & IT WARRANTS THIS LABOR INTENSIVE PROJECT
+`IMPORTANT`: ASK **YOUR MANAGER** BEFORE YOU TRY THIS & GET THEIR APPROVAL. ENSURE RELEVANCY TO YOUR ORG & THAT IT WARRANTS THIS LABOR INTENSIVE PROJECT
 
 ### 🌞TRACK THE INTERNATIONAL INCIDENT IN A CENTRALIZED LOCATION FOR THE SECURITY TEAM WHERE EVERYONE CAN VIEW IT IN REAL-TIME!🌞
 
-###### `TIP`: USE THE INTELLIGENCE LIFECYCLE AS A REPEATABLE METHODOLOGY TO TRACK THE INTERNATIONAL INCIDENT [Intelligence Lifecycle](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/)
+###### `TIP`: USE THE INTELLIGENCE LIFECYCLE AS A REPEATABLE METHODOLOGY TO TRACK THE INTERNATIONAL INCIDENT - [Intelligence Lifecycle](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/)
 
-`PLANNING & DIRECTION`:
+#### `PLANNING & DIRECTION`:
 
 - Manager: Talk with the other team leads at the org for their Priority Intelligence Requirements (PIRs) 
   - Ask what they need for deliverables, support, or other from CTI & their preferred format
@@ -55,9 +55,9 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
     - Ex: RED needs consolidated red-related info, etc. (Ex: log4j pentester tools on GitHub & procedures to re-create attacks)
     - Ex: HUNT needs actor behavioral information/attack-related information or changes to TTPs, etc. 
     - Ex: CTI needs to curate vetted IOCs, pivot to find additional infrastructure, track associated actors/payloads, deploy yararules, extract/research TTPs, intent/opportunity/capability of actor, etc.
--  Obtaining the PIRs helps prioritize and bucket collection efforts and set expectations.
+-  Obtaining the PIRs prioritizes and buckets collection efforts. 
 
-`COLLECTION`:
+#### `COLLECTION`:
 
 ###### `TIP`: GREAT PUBLIC COLLECTION EXAMPLE YOU CAN REPURPOSE FOR YOUR ORG BASED ON YOUR PIRS (Build a template before you need it) [Curated Intel Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md)
 
@@ -79,7 +79,9 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
   - Track how actors are compromising orgs, including tooling related to the vulnerability or incident
 - Track vulnerabilities related to the intl incident
   - Review your organization's posture to the vulnerabilities
-- Track any preparation/mitigation/remediation suggestions shared by reputable sources like SANS 
+- Track software/products related to the incident (Ex: UA-related Kitsoft, Solarwinds, Log4j, etc)
+ -  Review your organization's posture to the software/products
+- Track any preparation/mitigation/remediation suggestions shared by reputable sources like SANS or others
   - Ex: Mick Douglas' ([@bettersafetynet](https://twitter.com/bettersafetynet)) suggestions for UA-RU Thread [Defending against RU cyber ops](https://twitter.com/bettersafetynet/status/1496496087741480960) 
 - Collect any IOCs shared to run through your org's process (vet the IOCs)
 - Collect YaraRules shared
@@ -90,7 +92,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 ###### `TIP`: LOOK FOR ORIGINAL SOURCE: EX: LOG4J ISSUE MANAGEMENT - [LINK](https://issues.apache.org/jira/projects/LOG4J2/issues/LOG4J2-3419?filter=allopenissues)
 
-`PROCESSING`
+#### `PROCESSING`
 
 - **VERIFY ALL SOURCES**
 - Avoid stating something is a fact (If it isn't a fact)
@@ -111,7 +113,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
     - Include the information source type (`PRIMARY`, `SECONDARY`, etc.) 
       - Ex: Analysis of Competing Hypotheses for WannaCry [Link](https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/) by Rafael Amado at Digital Shadows   
 
-### `VERIFICATION`
+*VERIFICATION*
 
 | Provenance | Source | Date | Location | Motivation | 
 | --- | --- | --- | --- | --- |
@@ -119,13 +121,13 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 <sub>Citation for the adapted table below: First Draft News (2021). Verification: The Five Pillars of Visual Verification. </sub> [Link](https://twitter.com/firstdraftnews/status/1498086048349392897?s=20&t=tS1hYukA0UTrWdZaZkGRaw)
 
-#### `ADDITIONAL CTI VERIFICATION CONSIDERATIONS`
+**ADDITIONAL CTI VERIFICATION CONSIDERATIONS**
 - Financial or "other" sponsorship of the source (Ex: Pay4Play type things)
 - Sensationalism of the source (marketing, FUD, vendor affiliation, clout chasing, etc.)
 - Track record of source (Ex: J. Scott)
 - & More
 
-### `MIS/DIS/MAL-INFORMATION`
+*MIS/DIS/MAL-INFORMATION*
 
 | Mis-information | Dis-information | Mal-information |
 | --- | --- | --- | 
@@ -136,21 +138,21 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 My Fav Info Ops ;) [Ukrainian soldiers with cats](https://twitter.com/David_Leavitt/status/1497778728776060928?s=20&t=VVRPF43wAo1tqCLMVTl1mw)
 
-`ANALYSIS`
+#### `ANALYSIS`
 
 - Managers can prioritize PIRs by Analyst skillset and growth opportunities
   - Actor-centric CTI analyst focus on Actor-related analysis/Diamond Model etc.
   - TTP-centric CTI analyst focus on TTP-related PIRs, such as procedures for SOC/DFIR/HUNT/RED/Detection Engineering
   - Red-skilled CTI analyst can help with testing and developing custom signatures
   - Etc...
-    - Ex: WannaCry: Reverse engineer-skilled member on the team could find the killswitch before it was shared publicly
+    - Ex: CTI TEAM ON BEASTMODE - WannaCry: Reverse engineer-skilled member found the killswitch before it was shared publicly
  
-`DISSEMINATION`
+#### `DISSEMINATION`
 
 - Ensure the PIR deliverables are simple
   - **REMEMBER: Stay Vigilant - There are other threats than the international cybersecurity incident that you need to "worry" about.** 
 
-`FEEDBACK`
+#### `FEEDBACK`
 
 - Get feedback from stakeholders during the incident and course correct on the spot
 - After the incident: 
