@@ -169,6 +169,7 @@ My Fav Info Ops ;) [Ukrainian soldiers with cats](https://twitter.com/David_Leav
   - Get [Shodan](https://www.shodan.io/) Account
   - Sock Accounts
 - Set up RSS Feed for Collection Purposes - FREE option [Feedbro](https://nodetics.com/feedbro/)
+- & More!!!!!!!!!!!
 
 ## Additional Resources
 - [Working with Traumatic Imagery](https://dartcenter.org/content/working-with-traumatic-imagery) by Data Center for Journalism & Trauma
