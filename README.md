@@ -140,7 +140,7 @@ My Fav Info Ops ;) [Ukrainian soldiers with cats](https://twitter.com/David_Leav
 
 #### `ANALYSIS`
 
-- Managers can prioritize PIRs by Analyst skillset and growth opportunities
+- Managers can prioritize/assign PIRs by Analyst skillset and growth opportunities
   - Actor-centric CTI analyst focus on Actor-related analysis/Diamond Model etc.
   - TTP-centric CTI analyst focus on TTP-related PIRs, such as procedures for SOC/DFIR/HUNT/RED/Detection Engineering
   - Red-skilled CTI analyst can help with testing and developing custom signatures
