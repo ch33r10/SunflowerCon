@@ -133,7 +133,7 @@ Real talk about international cybersecurity incidents for in-house CTI Analysts.
 
 | Mis-information | Dis-information | Mal-information |
 | --- | --- | --- | 
-| False information, No intention to harm, Ex: Ghost of Kyiv, [Snake Island](https://twitter.com/YaBoiBru/status/1497598394893746182) | False information, Intention to harm, Ex: [RU Info Attacks](https://twitter.com/Ukraine/status/1497599276901441547?s=20&t=cdRszWPtXqi48OQ7JHYy3Q) | Genuine information, Intention to harm, (Includes leaks, harassment, hate speech), Ex: [@ContiLeaks](https://twitter.com/ContiLeaks) |
+| False information, No intention to harm, Ex: [Ghost](https://www.military.com/daily-news/2022/03/02/ukraines-fighter-ace-ghost-of-kyiv-may-be-myth-its-lethal-war-morale.html) of Kyiv, [Snake Island](https://twitter.com/YaBoiBru/status/1497598394893746182), UA farmer has more [tanks](https://twitter.com/peterwsinger/status/1500092217611984902?s=20&t=bIslbnve7lOLazTaJ6aB1Q) than entire US Marine Corps | False information, Intention to harm, Ex: [RU Info Attacks](https://twitter.com/Ukraine/status/1497599276901441547?s=20&t=cdRszWPtXqi48OQ7JHYy3Q) | Genuine information, Intention to harm, (Includes leaks, harassment, hate speech), Ex: [@ContiLeaks](https://twitter.com/ContiLeaks) |
 
 <sub>Citation for the adapted table below: Mary Blankenship (2020). How Misinformation Spreads Through Twitter. UNLV.</sub> [Link](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1006&context=brookings_capstone_studentpapers)
 
