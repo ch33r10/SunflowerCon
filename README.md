@@ -142,10 +142,13 @@ My Fav Info Ops ;)
 - [Ukrainian soldiers with cats](https://twitter.com/David_Leavitt/status/1497778728776060928?s=20&t=VVRPF43wAo1tqCLMVTl1mw)
 - [Spicy UA Posters](https://twitter.com/Mo_Abbas_Tweets/status/1499809125991129088?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
 - [Tactical Pickles](https://twitter.com/TsybulskaLiubov/status/1500075457798189057?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
-- "Life Will Win Over Death. Light Will Win Over Darkness" ~ Volodymyr Zelensky, President of Ukraine [Time Magazine Cover](https://twitter.com/Ukraine/status/1499280918900625409?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
+- [Time Magazine Cover](https://twitter.com/Ukraine/status/1499280918900625409?s=20&t=bIslbnve7lOLazTaJ6aB1Q) - "Life Will Win Over Death. Light Will Win Over Darkness" ~ Volodymyr Zelensky, President of Ukraine 
 - [Happy Stalin's Death Day!](https://twitter.com/Ukraine/status/1500016881310355462?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
 - [What a Wonderful World](https://twitter.com/Journotopia/status/1500093818699456527?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
 - [Epic Trolling](https://twitter.com/Ukraine/status/1498547251949588482?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
+- [Sunflower Seeds](https://youtu.be/PJJ8zmcBH2A)
+- [Ukrainian moves mine with cigarette](https://twitter.com/travisakers/status/1497943065629179904?s=20&t=bIslbnve7lOLazTaJ6aB1Q)
+- [Zelensky Selfie Video](https://twitter.com/SaoSasha/status/1497311531041640450?s=20&t=bIslbnve7lOLazTaJ6aB1Q) - "We're all here" ~ Volodymyr Zelensky
 
 #### `ANALYSIS`
 
